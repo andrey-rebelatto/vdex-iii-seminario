@@ -76,7 +76,7 @@ Os 14 slides foram divididos em 4 partes, uma para cada pessoa. Como 14 não div
 - O título resume bem: "Alguns não vão ser adotados. Mas podem ter um padrinho."
 - A página explica a diferença entre adotar e apadrinhar e quem entra no programa.
 - Traz um passo a passo e a **ficha de apadrinhamento** para baixar.
-- Ponte para a parte 3: esses apadrinhamentos também são gerenciados no painel, como a Pessoa 4 vai mostrar.
+- Ponte para o painel: esses apadrinhamentos também são gerenciados pela equipe, como a Pessoa 4 vai mostrar.
 
 ### Slide 06: Cinco formas de participar (Como ajudar)
 
